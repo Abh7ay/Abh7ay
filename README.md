@@ -87,7 +87,7 @@ I am currently open to **Frontend Development roles, freelance enterprise projec
 
 <div align="center">
   <br />
-  <em>"First, solve the problem. Then, write the code."</em> — John Johnson
+  <em>"First, solve the problem. Then, write the code."</em> 
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=Abh7ay&label=Profile%20Views&color=00E5FF&style=flat-square" alt="Profile Views" />
 </div>
