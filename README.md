@@ -44,7 +44,7 @@ Functionality meets aesthetics. I am a **Frontend Developer** dedicated to build
 * **Architecture:** Decoupled modular structure separating the React frontend (`src/`) and Django backend (`api/`, `backend/`).
 * **Key Feature:** Custom dynamic CMS for handling upcoming/completed projects, user-submitted ideas, automated pipelines, and an administrative dashboard for content moderation.
 
-### [EsportsVerse](https://github.com/Abh7ay/EsportsVerse)
+### [EsportsVerse](https://github.com/EsportsVerse/web-frontend) | [Live Demo](https://esports-verse.in)
 > **A high-performance web platform** tailored for the digital gaming community.
 * **Tech Stack:** React, JavaScript, HTML5, CSS3
 * **Architecture:** Component-driven structure prioritizing continuous state management for dynamic UI rendering.
