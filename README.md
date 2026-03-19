@@ -50,23 +50,7 @@ Functionality meets aesthetics. I am a **Frontend Developer** dedicated to build
 * **Architecture:** Component-driven structure prioritizing continuous state management for dynamic UI rendering.
 * **Key Feature:** Fast data hydration, highly interactive UI arrays optimized for gaming aesthetics, and seamless cross-platform user experience.
 
-### [Gemini Clone](https://github.com/Abh7ay/Gemini_Clone)
-> **A sleek AI chatbot application** that leverages external APIs to emulate real-time language model interactions.
-* **Tech Stack:** React, Vite, HTML5, CSS3, Gemini 1.5 Pro API
-* **Architecture:** Client-side structural flow managing asynchronous data streaming and complex conversation states.
-* **Key Feature:** Real-time generation streams, responsive prompt execution UI, and a persistent activity log for session management.
 
-### [Sign-Language-Detector-](https://github.com/Abh7ay/Sign-Language-Detector-)
-> **A specialized machine learning application** bridging accessibility and computer vision.
-* **Tech Stack:** Python, Core Machine Learning Libraries
-* **Architecture:** Streamlined data pipeline capturing and analyzing live visual input arrays to interpret logic gestures.
-* **Key Feature:** Automates deep accessibility protocols by mapping visual data points into raw, actionable outputs.
-
-### [FileSharing_django](https://github.com/Abh7ay/FileSharing_django)
-> **A secure utility platform** developed to administer robust file handling operations.
-* **Tech Stack:** Python, Django, HTML, CSS
-* **Architecture:** Model-View-Template (MVT) pattern strictly handling secure file I/O operations and database linking.
-* **Key Feature:** Highly authenticated environment for direct media hosting, serving managed content efficiently via Python backends.
 
 ---
 
