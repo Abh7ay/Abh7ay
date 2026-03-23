@@ -36,21 +36,9 @@ Functionality meets aesthetics. I am a **Frontend Developer** dedicated to build
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Portfolio
 
-### [Nestle-At](https://github.com/Abh7ay/Nestle-At) | [Live Demo](https://nestle-at.vercel.app)
-> **A full-stack, dynamic real estate platform** seamlessly bridging a Vite/React frontend with a Django REST API.
-* **Tech Stack:** React, Vite, Tailwind CSS, Django, SQLite
-* **Architecture:** Decoupled modular structure separating the React frontend (`src/`) and Django backend (`api/`, `backend/`).
-* **Key Feature:** Custom dynamic CMS for handling upcoming/completed projects, user-submitted ideas, automated pipelines, and an administrative dashboard for content moderation.
-
-### [EsportsVerse](https://github.com/EsportsVerse/web-frontend) | [Live Demo](https://esports-verse.in)
-> **A high-performance web platform** tailored for the digital gaming community.
-* **Tech Stack:** React, JavaScript, HTML5, CSS3
-* **Architecture:** Component-driven structure prioritizing continuous state management for dynamic UI rendering.
-* **Key Feature:** Fast data hydration, highly interactive UI arrays optimized for gaming aesthetics, and seamless cross-platform user experience.
-
-
+🌐 **[Visit My Portfolio](https://abh7ay.vercel.app/)** to explore my featured projects, latest work, and detailed case studies.
 
 ---
 
