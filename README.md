@@ -1,77 +1,38 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Web+Developer;React+%26+UI%2FUX+Specialist;Building+Scalable+Systems" alt="Header Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+UI%2FUX+Specialist;Building+Scalable+Systems" alt="Typing Effect" />
+  <p><b>Architecting Scalable Frontends | Building Premium UI/UX | Solving Real-World Problems</b></p>
 </div>
 
 <div align="center">
-  <h3>Architecting Scalable Frontends | Building Premium UI/UX | Solving Real-World Problems</h3>
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Functionality meets aesthetics. I am a **Frontend Developer** dedicated to building high-performance, responsive web applications. My focus lies entirely on modern React ecosystems, scalable UI architectures, and crafting premium user experiences that feel seamless and native. I build with a real-world development mindset—prioritizing clean code, component reusability, and production-ready applications over basic scripts.
-
----
-
-## ⚙️ Tech Stack & Tools
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,js,tailwind,html,css,python,django,git,npm&perline=10" alt="Tech Stack Icons" />
+  <a href="https://abh7ay.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00E5FF" alt="Portfolio" />
   </a>
 </div>
 
 ---
 
-## ⚡ Core Strengths
+### 👨‍💻 About Me
+I build high-performance, responsive web applications using the modern **React ecosystem**. I prioritize clean architecture, reusable components, and pixel-perfect design.
 
-```text
-• Scalable Frontend Architecture
-• Reusable Component Design
-• UI/UX & Interaction Fidelity
-• Performance & Render Optimization
-• Full-Stack API Integration
-```
+* 🌱 **Currently exploring:** Complex layout grids, micro-frontend architectures, and advanced web animations.
+* 🤝 **Open to:** Frontend roles, freelance projects, and scalable engineering collaborations.
 
 ---
 
-## 🚀 Portfolio
-
-🌐 **[Visit My Portfolio](https://abh7ay.vercel.app/)** to explore my featured projects, latest work, and detailed case studies.
-
----
-
-## 📦 Repository Insights
-
-Analyzing my workflow and version control trends reveals a defined engineering pattern:
-* **The React + Vite Standard:** Nearly all frontend architectures are bootstrapped with modern bundlers (Vite) to ensure rapid development and high web core vitals.
-* **UI & Styling Engines:** Consistent deployment of Tailwind CSS alongside modular logic to enforce a component-first, highly scalable design system.
-* **Full-Stack Competency:** Beyond the frontend UI boundaries, there's an aggressive inclusion of python backend environments (Django) acting as APIs and controlling core business logic.
-* **Experimentation Mindset:** Active exploration of AI integrations (LLM APIs) and dynamic workflow automation directly layered upon modern frontends. 
-
----
-
-## 📊 Developer Analytics
-
+### ⚙️ Tech Stack
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abh7ay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Abh7ay&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abh7ay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,js,tailwind,html,css,python,django,git,npm&perline=10" alt="Tech Stack" />
+  </a>
 </div>
 
 ---
 
-## 🌱 Currently Exploring
-
-Looking ahead, my core focus involves engineering **complex layout grids**, refining micro-frontend architectures, and mastering web animations for premium digital experiences. I am consistently bridging the visual gap between dynamic frontend Javascript mechanics and robust backend environments.
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-I am currently open to **Frontend Development roles, freelance enterprise projects, and scalable engineering collaborations** seeking a developer who values both technical foundations and pixel perfection.
+### 📊 Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abh7ay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Abh7ay&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
 
 <div align="center">
   <br />
