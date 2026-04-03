@@ -20,8 +20,9 @@
 ### 👨‍💻 About Me
 I build high-performance, responsive web applications using the modern **React ecosystem**. I prioritize clean architecture, reusable components, and pixel-perfect design.
 
-* 🌱 **Currently exploring:** Complex layout grids, micro-frontend architectures, and advanced web animations.
-* 🤝 **Open to:** Frontend roles, freelance projects, and scalable engineering collaborations.
+* 🔭 **Currently building:** Web experiences bridging React with AI integrations (LLM APIs) & dynamic workflows.
+* 🌱 **Currently exploring:** Micro-frontend architectures, complex layout grids, and advanced UI animations.
+* 🤝 **Open to:** Frontend roles, freelance enterprise projects, and scalable engineering collaborations.
 
 ---
 
