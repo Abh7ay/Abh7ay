@@ -1,21 +1,49 @@
-### Hi there 👋 I am Abh7ay
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+UI%2FUX+Specialist;Building+Scalable+Systems" alt="Typing Effect" />
+  <p><b>Architecting Scalable Frontends | Building Premium UI/UX | Solving Real-World Problems</b></p>
+</div>
 
-I am a frontend developer 🤓, final year computer engineering undergraduate 🎓, technical writer 🖋️ and speaker who currently works as a freelance Frontend developer on various projects.
-
-Aside coding fun projects, I enjoy creating technical content 👩🏽‍💻, teaching others how to code 🎤, speaking at events and 📖 learning new things. Some of my 💻 projects are available [here](#).
-
-* 🔭 I'm currently learning **Nuxt and Tailwind CSS**
-* 🌱 I'm looking for **speaking and technical writing opportunities and frontend development gigs**
-* 💬 Ask me about **HTML/CSS, JavaScript, Vue.js, Content creation and Wordpress**
-* 📫 How to reach me: **abhay00991@gmail.com**
-* 😄 Pronouns: **He/him**
-* ⚡ Fun fact: **I have a very healthy sense of humor 😂**
+<div align="center">
+  <a href="https://abh7ay.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00E5FF" alt="Portfolio" />
+  </a>
+  <a href="mailto:abhay00991@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/abh7y/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 👨‍💻 About Me
+I build high-performance, responsive web applications using the modern **React ecosystem**. I prioritize clean architecture, reusable components, and pixel-perfect design.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abh7ay&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Abh7ay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abh7ay&layout=compact&theme=radical&hide_border=true" alt="Abh7ay's Top Languages" width="48%" />
-</p>
+* 🔭 **Currently building:** Web experiences bridging React with AI integrations (LLM APIs) & dynamic workflows.
+* 🌱 **Currently exploring:** Micro-frontend architectures, complex layout grids, and advanced UI animations.
+* 🤝 **Open to:** Frontend roles, freelance enterprise projects, and scalable engineering collaborations.
+
+---
+
+### ⚙️ Tech Stack
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,js,tailwind,html,css,python,django,git,npm&perline=10" alt="Tech Stack" />
+  </a>
+</div>
+
+---
+
+### 📊 Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abh7ay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Abh7ay&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <br />
+  <em>"First, solve the problem. Then, write the code."</em> 
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=Abh7ay&label=Profile%20Views&color=00E5FF&style=flat-square" alt="Profile Views" />
+</div>
